@@ -17,7 +17,7 @@ cd datavines
 ```
 
 ## 数据库准备
-`Datavines` 的元数据是存储在关系型数据库中，目前支持 `MySQL` 和 `PostgreSQL` ，默认使用 `PostgreSQL` ，下面以`MySQL`为例说明安装步骤：
+`Datavines` 的元数据是存储在关系型数据库中，目前支持 `MySQL` ，下面以`MySQL`为例说明安装步骤：
 - 创建数据库 `datavines`
 - 执行 `script/sql/datavines-mysql.sql` 脚本进行数据库的初始化
 
