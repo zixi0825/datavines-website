@@ -17,7 +17,7 @@ cd datavines
 ```
 
 ## Database preparation
-The metadata of `Datavines` is stored in a relational database. Currently, `MySQL` and `PostgreSQL` are supported, and `PostgreSQL` is used by default. The following uses `MySQL` as an example to illustrate the installation steps:
+The metadata of `Datavines` is stored in a relational database. Currently, `MySQL` are supported. The following uses `MySQL` as an example to illustrate the installation steps:
 - Create database `datavines`
 - Execute the `script/sql/datavines-mysql.sql` script to initialize the database
 
